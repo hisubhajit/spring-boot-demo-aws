@@ -1,0 +1,7 @@
+cloud:
+  aws:
+    credentials:
+      access-key: provide_details
+      secret-key: provide_details
+    s3:
+      bucket-name: provide_details
