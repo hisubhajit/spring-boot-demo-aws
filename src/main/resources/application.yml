@@ -5,3 +5,9 @@ cloud:
       secret-key: provide_details
     s3:
       bucket-name: provide_details
+file:
+  upload:
+    location: "C:/Learning/Spring/aws/test-files"
+  download:
+    location: "C:/Learning/Spring/aws/test-files-download"
+    object: provide_details
